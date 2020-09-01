@@ -5,6 +5,26 @@ This projects demosntrates real time processing using kafka streams processing D
 - 3. https://dzone.com/articles/real-time-stream-processing-with-apache-kafka-part
 - 4. https://dzone.com/articles/real-time-stream-processing-with-apache-kafka-part-1
 
+## Kafka Use Cases
+
+Kafka is used in two broad classes of applications. It can build real-time streaming data pipelines that reliably move data between systems and applications. It can also be used to build real-time streaming applications that transform or react to streams of od data. 
+
+Some use cases for these include: 
+
+- Messaging.
+
+- Real-time website activity tracking.
+
+- Metrics.
+
+- Log aggregation.
+
+- Stream processing.
+
+- Event sourcing.
+
+- Commit Log.
+
 
 ## Assumptions
 1. you allready have the kafka cluster setup. if not please reffer to the docs directory. Refer the section 'How to Setup single node Kafka cluster' on page 7
