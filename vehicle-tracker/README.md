@@ -1,6 +1,9 @@
 # Real time analytics with kafka streams
 This projects demosntrates real time processing using kafka streams processing DSL
-
+- 1. https://dzone.com/articles/real-time-stream-processing-with-apache-kafkapart
+- 2. https://dzone.com/articles/real-time-stream-processing-with-apache-kafkapart-1
+-3. https://dzone.com/articles/real-time-stream-processing-with-apache-kafka-part
+-4. https://dzone.com/articles/real-time-stream-processing-with-apache-kafka-part-1
 
 
 ## Assumptions
